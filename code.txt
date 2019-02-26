@@ -1,0 +1,7 @@
+x=2
+y=4
+z=3
+print("x is {0},y is {1} and z is {2}".format(x,y,z))
+print("x**y+z is "+str(x**y+z))
+string="Hello, I am your code"
+print(string)
